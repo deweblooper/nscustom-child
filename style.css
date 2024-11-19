@@ -1,0 +1,164 @@
+/*
+Theme Name: NS Custom Child
+Description: A <a href='http://codex.wordpress.org/Child_Themes'>Child Theme</a> for the NS Custom Theme. If you plan to do a lot of file modifications we recommend to use this theme instead of the original. Updating wil be much easier then.
+Version: 1.0
+Author: NetSuccess, s. r. o.
+Author URI: https://www.netsuccess.sk/webdesign/
+Template: nscustom
+*/
+
+
+/* Join defult style */
+@import url("../nscustom/style.css");
+
+/* Override all default fonts */
+body,
+button,
+input,
+select,
+textarea {
+	font-family: 'Aileron', sans-serif;
+}
+
+button,
+button[disabled]:hover,
+button[disabled]:focus,
+input[type="button"],
+input[type="button"][disabled]:hover,
+input[type="button"][disabled]:focus,
+input[type="reset"],
+input[type="reset"][disabled]:hover,
+input[type="reset"][disabled]:focus,
+input[type="submit"],
+input[type="submit"][disabled]:hover,
+input[type="submit"][disabled]:focus {
+	font-family: 'Aileron', sans-serif;
+}
+
+::-webkit-input-placeholder {
+	font-family: 'Aileron', sans-serif;
+}
+
+:-moz-placeholder {
+	font-family: 'Aileron', sans-serif;
+}
+
+::-moz-placeholder {
+	font-family: 'Aileron', sans-serif;
+	opacity: 1;
+	/* Since FF19 lowers the opacity of the placeholder by default */
+}
+
+:-ms-input-placeholder {
+	font-family: 'Aileron', sans-serif;
+}
+
+.post-password-form label {
+	font-family: 'Aileron', sans-serif;
+}
+
+.main-navigation {
+	font-family: 'Aileron', "Helvetica Neue", sans-serif;
+}
+
+.post-navigation {
+	font-family: 'Aileron', sans-serif;
+}
+
+.post-navigation .post-title {
+	font-family: 'Aileron', sans-serif;
+}
+
+.pagination {
+	font-family: 'Aileron', sans-serif;
+}
+
+.image-navigation,
+.comment-navigation {
+	font-family: 'Aileron', sans-serif;
+}
+
+.site .skip-link {
+	font-family: 'Aileron', sans-serif;
+}
+
+.widget .widget-title {
+	font-family: 'Aileron', sans-serif;
+}
+
+.widget_recent_entries .post-date {
+	font-family: 'Aileron', sans-serif;
+}
+
+.widget_rss .rss-date,
+.widget_rss cite {
+	font-family: 'Aileron', sans-serif;
+}
+
+.tagcloud a {
+	font-family: 'Aileron', sans-serif;
+}
+
+.site-title {
+	font-family: 'Aileron', sans-serif;
+}
+
+.entry-title {
+	font-family: 'Aileron', sans-serif;
+}
+
+.entry-footer {
+	font-family: 'Aileron', sans-serif;
+}
+
+.sticky-post {
+	font-family: 'Aileron', sans-serif;
+}
+
+.page-title {
+	font-family: 'Aileron', sans-serif;
+}
+
+.page-links {
+	font-family: 'Aileron', sans-serif;
+}
+
+.comments-title,
+.comment-reply-title {
+	font-family: 'Aileron', sans-serif;
+}
+
+.comment-metadata,
+.pingback .edit-link {
+	font-family: 'Aileron', sans-serif;
+}
+
+.comment-reply-link {
+	font-family: 'Aileron', sans-serif;
+}
+
+.comment-form label {
+	font-family: 'Aileron', sans-serif;
+}
+
+.no-comments {
+	font-family: 'Aileron', sans-serif;
+}
+
+.widecolumn label,
+.widecolumn .mu_register label {
+	font-family: 'Aileron', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

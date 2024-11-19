@@ -1,0 +1,31 @@
+
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('aileron-regular-webfont.eot');
+    src: url('aileron-regular-webfont.eot') format('embedded-opentype'),
+         url('aileron-regular-webfont.woff2') format('woff2'),
+         url('aileron-regular-webfont.woff') format('woff'),
+         url('aileron-regular-webfont.ttf') format('truetype');
+		font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('aileron-bold-webfont.eot');
+    src: url('aileron-bold-webfont.eot') format('embedded-opentype'),
+         url('aileron-bold-webfont.woff2') format('woff2'),
+         url('aileron-bold-webfont.woff') format('woff'),
+         url('aileron-bold-webfont.ttf') format('truetype');
+		font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('aileron-heavy-webfont.eot');
+    src: url('aileron-heavy-webfont.eot') format('embedded-opentype'),
+         url('aileron-heavy-webfont.woff2') format('woff2'),
+         url('aileron-heavy-webfont.woff') format('woff'),
+         url('aileron-heavy-webfont.ttf') format('truetype');
+		font-weight: 900;
+}
